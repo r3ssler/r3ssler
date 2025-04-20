@@ -1,5 +1,4 @@
-# Hi There, 👋
-### I'm Viet-Quynh Nguyen (aka r3ssler) 👋
+### Hi There, I'm Viet-Quynh Nguyen 👋
 
 <a href="https://www.linkedin.com/in/r3ssler/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
