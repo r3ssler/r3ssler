@@ -13,8 +13,8 @@
 <br />
 <br />
 
-I am a post-graduate student majoring in Computer Programming at Algonquin College.
-I am from Vietnam, currently living in Ottawa, Canada.
+I am a post-graduate student majoring in Computer Programming at Algonquin College.<br />
+I am from Vietnam, currently living in Ottawa, Canada. <br />
 I’m currently working on personal projects!
 
 I’m looking to collaborate with other developers building open-source projects for fun and learning! I'm just an invite away - r3ssler@gmail.com
