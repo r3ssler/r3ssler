@@ -20,7 +20,7 @@ I’m looking to collaborate with other developers building open-source projects
 I'm just an invite away - r3ssler@gmail.com
 
 Technologies:
-- Java, MySQL, MongoDB, Oracle
+- Java, PostgreSQL, MySQL, MongoDB, Oracle
 - Javascript, HTML, CSS Javascript, PHP, JSON
 - Git, GitHub Actions
 
