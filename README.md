@@ -21,7 +21,7 @@ I'm just an invite away - r3ssler@gmail.com
 
 Technologies:
 - Java, PostgreSQL, MySQL, MongoDB, Oracle
-- Javascript, HTML, CSS Javascript, PHP, JSON
+- Javascript, HTML, CSS, PHP, JSON
 - Git, GitHub Actions
 
 
